@@ -1,4 +1,6 @@
 **K-Means Clustering of Chemical Compounds using ECFP4 Fingerprints**
+
+
 **Overview**
 This project implements K-means clustering for chemical compounds based on their ECFP4 (Extended-Connectivity Fingerprints) fingerprints. The goal is to group compounds with similar molecular structures and properties into clusters. K-means is a popular unsupervised learning algorithm used in cheminformatics to explore compound similarity, diversity, and structure-activity relationships.
 
